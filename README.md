@@ -55,7 +55,7 @@ The global **Configure, Price, Quote (CPQ)** software market is valued at approx
 
 ## 🔓 Open-Source GitHub Projects
 
-*Self-hosted CPQ solutions, quoting pipelines, product catalog engines, and e-signature components. Sorted by GitHub Stars_Count (descending).*
+*Self-hosted CPQ solutions, quoting pipelines, product catalog engines, and e-signature components. Sorted by GitHub_Stars_Count (descending).*
 
 | 📦 Repository & Project | ⭐ GitHub_Stars | 📜 License | 🛠️ CPQ & Quoting Focus |
 | :--- | :--- | :--- | :--- |
