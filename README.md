@@ -148,3 +148,5 @@ If this project has saved you time, helped your RevOps architecture, or provided
 <p align="center">
   <b>Built with ❤️ for Sales Engineers, RevOps leaders, Manufacturers, and Open-Source Developers worldwide.</b>
 </p>
+# Awesome-Configure-Price-Quote-CPQ
+
