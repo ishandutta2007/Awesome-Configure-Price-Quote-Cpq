@@ -131,9 +131,8 @@ If this project has saved you time, helped your RevOps architecture, or provided
 
 ---
 
-## 📈 Star History
-
-[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Configure,-Price,-Quote-Cpq&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Configure,-Price,-Quote-Cpq&type=date&legend=top-left)
+##  Star History
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Configure-Price-Quote-Cpq&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Configure-Price-Quote-Cpq&type=date&legend=top-left)
 
 ---
 
